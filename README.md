@@ -1,6 +1,9 @@
 Bomberman
 =========
 
+Develop
+-------
+
 This repository is dedicated to a future web based game inspired by Bomberman.
 
 This project is currently at the design stage and we are still heavily discussing the basic aspects of the game like:
